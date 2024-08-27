@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Nethra1619/Birthday29.git
+    git clone  https://github.com/Nethra1619/Birthday29.git
     ```
 2. **Navigate into the project directory:**
     ```bash
