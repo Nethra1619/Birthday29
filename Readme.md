@@ -17,7 +17,7 @@ Welcome to the Birthday project! This project showcases a special HTML page dedi
 
 You can view the live demo of the Birthday page on GitHub Pages:
 
-[Live Demo](https://Nethra1619.github.io/Birthday/)
+[Live Demo](https://Nethra1619.github.io/Birthday29/)
 
 ## Features
 
@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Nethra1619/Birthday.git
+    git clone https://github.com/Nethra1619/Birthday29.git
     ```
 2. **Navigate into the project directory:**
     ```bash
