@@ -17,7 +17,7 @@ Welcome to the Birthday project! This project showcases a special HTML page dedi
 
 You can view the live demo of the Birthday page on GitHub Pages:
 
-[Live Demo](https://Nethra1619.github.io/Birthday29/)
+[Live Demo](https://nethra1619.github.io/Birthday29/)
 
 ## Features
 
