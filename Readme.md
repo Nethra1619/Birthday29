@@ -35,9 +35,9 @@ To run the project locally, follow these steps:
     ```
 2. **Navigate into the project directory:**
     ```bash
-    cd Birthday
+    cd Birthday29
     ```
-3. **Open `index.html` in your browser:**
+3.Birthday29`index.html` in your browser:**
     - You can double-click `index.html` to open it in your default browser, or use a local server to view it.
 
 ## Usage
